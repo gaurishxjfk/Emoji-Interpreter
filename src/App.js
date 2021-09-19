@@ -9,7 +9,11 @@ const emojiDictionary = {
   "😔": "sad",
   "🤒": "sick",
   "😡": "angry",
-  "🤮": "vomit"
+  "🤮": "vomit",
+  "🥶": "frozen",
+  "😱": "shocked",
+  "🤑": "rich",
+  "😈": "evil"
 };
 var emojisweknow = Object.keys(emojiDictionary);
 export default function App() {
